@@ -3,6 +3,7 @@
 ![alexdyysp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdyysp&show_icons=true&theme=radical)
 
 
+  <img src="https://github-readme-stats.vercel.app/api?username=alexdyysp&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues" />
 
 - 🔭 I’m currently working for MeituanDianping
 - 🌱 I’m currently learning Reactive Programming
